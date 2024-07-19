@@ -18,7 +18,7 @@
 <br/><br/>
 
 ### 🗺 기술 설계도
-<img width=100% src="https://github.com/hkyuuu00/dev-mode/assets/155419559/b46445cc-97ab-4af1-a1a9-07443e14f6c6"><br/><br/>
+<img width=100% src="https://github.com/user-attachments/assets/8cfa2b59-460f-46d2-9196-fbf5fd0e59ad"><br/><br/>
 
 
 ### 💻 기술 스택

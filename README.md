@@ -36,11 +36,11 @@
 <img width=100% src="https://github.com/user-attachments/assets/7ded6ebb-6673-49b1-9d00-b2340787ca90">
 - **검색창:** 사용자가 식품명을 입력하면 해당 식품의 영양성분정보를 제공<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/da497b53-605d-4dcc-aebb-57f5b7ad390c">
-- **영양성분정보제공:** 1회 제공량, 열량, 탄수화물, 단백질, 지방, 당류, 나트륨의 정보를 제공<br/><br/><br/>
+- **영양성분정보 제공:** 1회 제공량, 열량, 탄수화물, 단백질, 지방, 당류, 나트륨의 정보를 제공<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/ab140aad-fee8-48d4-8e1b-4ec380cbb2d4">
-- **페이지분류:** 검색결과가 20개 이상일 경우 나누어 확인할 수 있도록 페이지네이션 기능 구현<br/><br/><br/>
+- **페이지 분류:** 검색결과가 20개 이상일 경우 나누어 확인할 수 있도록 페이지네이션 기능 구현<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/4f78400b-5776-434d-bf6c-078ebed87803">
-- **좋은가시성:** 같은 식품명의 상품이 존재하는 경우를 대비하여 가시성을 높이기 위한 UI 구현<br/><br/><br/>
+- **좋은 가시성:** 같은 식품명의 상품이 존재하는 경우를 대비하여 가시성을 높이기 위한 UI 구현<br/><br/><br/>
 
 
 ### 🎧 <a href="https://youtu.be/RS7BLJ2unoM](https://youtu.be/yycpVzCdrRU">시연영상</a>

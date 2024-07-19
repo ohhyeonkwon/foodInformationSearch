@@ -60,46 +60,11 @@
   </tr>
   <tr>
     <td>원인</td>
-    <td>동일한 출처의 리소스에만 접근하도록 제한</td>
+    <td>검색 키워드의 URL 인코딩 과정에서의 에러 및 API 서버에러</td>
   </tr>
   <tr>
     <td>해결</td>
-    <td>한 도메인 웹 페이지가 다른 도메인 을 가진 리소스에 액세스 할 수 있도록 CORS 사용</td>
+    <td>Try-catch문을 사용하여 데이터처리 에러로 구분하고 예외처리 및 에러 표시</td>
   </tr>
 </table><br/><br/>
-
-⚠️ 체인코드에서 사용자 정보 조회<br/>
-<table>
-  <tr>
-    <td>
-    <strong>문제</strong>
-    </td>
-    <td>
-    <strong>사용자 정보를 전체 불러오는 것에 어려움</strong>  
-    </td>
-  </tr>
-  <tr>
-    <td>원인</td>
-    <td>처음에는 입력값을 받아 해당 데이터를 조회하는 방식을 가지고 수정</td>
-  </tr>
-  <tr>
-    <td>해결</td>
-    <td>해당 데이터를 모두 받아 Json으로 파싱 후 Key, Value 값을 호출하여 출력</td>
-  </tr>
-</table><br/><br/><br/><br/>
-
-## ⚙️ 프로젝트 설치 및 실행 방법
-
-### 📝 Prerequisites
-- Oracle VM VirtualBox 6.1
-- Ubuntu 22.04.x
-- cURL
-- Docker Community Edition CE 23.0.6
-- Docker Compose 1.27.4 이상
-- Go 1.16.7
-- Git 2.9.x 이상
-- Python 2.7.17
-- Node.js 12.13.1
-- npm 5.6.0
-- VSCode v1.28
 

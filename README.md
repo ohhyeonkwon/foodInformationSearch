@@ -1,5 +1,4 @@
-<img width=70% src="![image](https://github.com/user-attachments/assets/35cd3f17-12f0-4daa-a9aa-ea3cafa912f7)
-">
+<img width=70% src="https://github.com/user-attachments/assets/35cd3f17-12f0-4daa-a9aa-ea3cafa912f7">
 
 # OpenAPI를 활용한 식품영양정보 조회 서비스
 

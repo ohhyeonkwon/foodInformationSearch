@@ -25,7 +25,7 @@
 - **OS:** &nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - **FrameWork:** &nbsp;&nbsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - **Style:** &nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- **Language:** &nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white),![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Language:** &nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - **Tools:** &nbsp;&nbsp;![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <br/><br/>
 
@@ -33,13 +33,13 @@
 ### ✨ 주요 기능 및 이미지
 📌 메인화면<br/>
 <img width=100% src="https://github.com/user-attachments/assets/7ded6ebb-6673-49b1-9d00-b2340787ca90">
-- 검색창: 사용자가 식품명을 입력하면 해당 식품의 영양성분정보를 제공<br/><br/><br/>
+- **검색창:** 사용자가 식품명을 입력하면 해당 식품의 영양성분정보를 제공<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/da497b53-605d-4dcc-aebb-57f5b7ad390c">
-- 식품영양정보 제공: 1회 제공량, 열량, 탄수화물, 단백질, 지방, 당류, 나트륨의 정보를 제공<br/><br/><br/>
+- **식품영양정보 제공:** 1회 제공량, 열량, 탄수화물, 단백질, 지방, 당류, 나트륨의 정보를 제공<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/ab140aad-fee8-48d4-8e1b-4ec380cbb2d4">
-- 페이지 분류: 검색결과가 20개 이상일 경우 나누어 확인할 수 있도록 페이지네이션 기능 구현<br/><br/><br/>
+- **페이지 분류:** 검색결과가 20개 이상일 경우 나누어 확인할 수 있도록 페이지네이션 기능 구현<br/><br/><br/>
 <img width=100% src="https://github.com/user-attachments/assets/4f78400b-5776-434d-bf6c-078ebed87803">
-- 좋은 가시성: 같은 식품명의 상품이 존재하는 경우를 대비하여 가시성을 높이기 위한 UI 구현<br/><br/><br/>
+- **좋은 가시성:** 같은 식품명의 상품이 존재하는 경우를 대비하여 가시성을 높이기 위한 UI 구현<br/><br/><br/>
 
 
 

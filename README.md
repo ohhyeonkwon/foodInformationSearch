@@ -21,8 +21,7 @@
 <img width=100% src="https://github.com/user-attachments/assets/8cfa2b59-460f-46d2-9196-fbf5fd0e59ad"><br/><br/>
 
 
-### 💻 기술 스택
-- **OS:** &nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 💻 기술스택
 - **FrameWork:** &nbsp;&nbsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - **Style:** &nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - **Language:** &nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
